@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/davou.jobbi/Code/Guess-who/src/main/scala/main/GameBoard.scala:93:26: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: (_, Person(_, _, _, _, _))[0m
+[0m[[0m[33mwarn[0m] [0m[0m      populatedBoard map {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
