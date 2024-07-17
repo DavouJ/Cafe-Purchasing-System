@@ -1,4 +1,37 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/guess-who_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/cafe-purchasing-system_2.13-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Food$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Food$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Table$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Table$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Drink.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Drink.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Table.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Table.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/MenuItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/MenuItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Bill.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Bill.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Food.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Food.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Guest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Guest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Bill$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Bill$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Guest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Guest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Drink$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Drink$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Menu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Cafe-Purchasing-System/target/scala-2.13/classes/main/Menu$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,5 +1,19 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/davou.jobbi/Code/Guess-who/src/main/scala/main/GameBoard.scala:93:26: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: (_, Person(_, _, _, _, _))[0m
-[0m[[0m[33mwarn[0m] [0m[0m      populatedBoard map {[0m
-[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davou.jobbi/Code/Cafe-Purchasing-System/src/main/scala/main/Bill.scala:100:50: unknown parameter name: cost[0m
+[0m[[0m[31merror[0m] [0m[0m      case item@Drink(_, _, _) => item.copy(cost = item.cost / 2)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davou.jobbi/Code/Cafe-Purchasing-System/src/main/scala/main/Menu.scala:13:86: unknown parameter name: isPremium[0m
+[0m[[0m[31merror[0m] [0m[0m    val cheeseSandwich: Food = Food("Cheese Sandwich", 5.00, isH =  false, isPremium = false )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davou.jobbi/Code/Cafe-Purchasing-System/src/main/scala/main/Menu.scala:14:67: unknown parameter name: isHot[0m
+[0m[[0m[31merror[0m] [0m[0m    val steakSandwich: Food = Food("Steak Sandwich", 4.50,  isHot = true, isPremium = false )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davou.jobbi/Code/Cafe-Purchasing-System/src/main/scala/main/Menu.scala:14:85: unknown parameter name: isPremium[0m
+[0m[[0m[31merror[0m] [0m[0m    val steakSandwich: Food = Food("Steak Sandwich", 4.50,  isHot = true, isPremium = false )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davou.jobbi/Code/Cafe-Purchasing-System/src/main/scala/main/Menu.scala:15:55: unknown parameter name: isHot[0m
+[0m[[0m[31merror[0m] [0m[0m    val lobster: Food = Food("Lobster", 250.00, isHot = true, isPremium = true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/davou.jobbi/Code/Cafe-Purchasing-System/src/main/scala/main/Menu.scala:15:73: unknown parameter name: isPremium[0m
+[0m[[0m[31merror[0m] [0m[0m    val lobster: Food = Food("Lobster", 250.00, isHot = true, isPremium = true)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
